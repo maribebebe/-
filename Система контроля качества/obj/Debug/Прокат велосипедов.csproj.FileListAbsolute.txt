@@ -1,0 +1,83 @@
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.AssemblyReference.cache
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form1.resources
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form2.resources
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Properties.Resources.resources
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.GenerateResource.cache
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.CoreCompileInputs.cache
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe.config
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.pdb
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.exe
+C:\Users\Маха\source\repos\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.pdb
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe.config
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.pdb
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.AssemblyReference.cache
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form1.resources
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form2.resources
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Properties.Resources.resources
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.GenerateResource.cache
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.CoreCompileInputs.cache
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.exe
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.pdb
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form3.resources
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form4.resources
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form5.resources
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form6.resources
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form7.resources
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form8.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe.config
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.pdb
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.AssemblyReference.cache
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form1.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form2.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form3.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form4.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form5.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form6.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form7.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form8.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form9.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Properties.Resources.resources
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.GenerateResource.cache
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.CoreCompileInputs.cache
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.exe
+\\fs\users_temp\2маши\Новая папка\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.pdb
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe.config
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.pdb
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.AssemblyReference.cache
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form1.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form2.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form3.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form4.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form5.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form6.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form7.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form8.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form9.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Properties.Resources.resources
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.GenerateResource.cache
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.CoreCompileInputs.cache
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.exe
+C:\Users\user.ALCOLLEGE\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.pdb
+C:\Users\Маха\Desktop\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form9.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.AssemblyReference.cache
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Properties.Resources.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.GenerateResource.cache
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.csproj.CoreCompileInputs.cache
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.exe
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат велосипедов.pdb
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe.config
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.exe
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\bin\Debug\Прокат велосипедов.pdb
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form1.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form2.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form3.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form4.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form5.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form6.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form7.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form10.resources
+C:\Users\Маха\Desktop\Бебик\Прокат велосипедов\Прокат велосипедов\obj\Debug\Прокат_велосипедов.Form9.resources
